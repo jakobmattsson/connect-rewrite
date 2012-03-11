@@ -1,0 +1,11 @@
+{
+  "name": "connect-rewrite",
+  "main": "connect-rewrite.js",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Jakob Mattsson <jakob.mattsson@gmail.com> (jakobmattsson.se)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jakobmattsson/connect-rewrite.git"
+  }
+}
